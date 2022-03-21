@@ -1,0 +1,138 @@
+*{
+    scroll-behavior: smooth;
+
+}
+body{
+    
+    background-color: blanchedalmond;
+    
+
+
+}
+
+.header{
+      background-color: #000000;
+      padding: 15px;
+      text-align: center;
+
+}
+
+
+
+.header h1{
+        color: aqua;
+
+
+}
+.logo{
+    float: left;
+    height: 9%;
+
+}
+img{
+    height: 80%;
+
+
+}
+body{
+    margin: 0cm;
+    
+
+
+}
+.bemelegites h2{
+        color: aqua;
+        text-align: center;
+
+
+}
+.top-nav{
+    background-color: rgb(5, 228, 228);
+    padding: 3px;
+  
+
+    
+}	
+.top-nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    height: 20px;
+    padding: 10px;
+}
+.top-nav a:hover{
+    background-color: azure;
+
+
+
+}
+.top-nav p{
+    height: auto;
+
+
+}
+.gyakorlat{
+    text-align: center;
+    font-size: larger;
+
+}
+.bemelegites, #guggolas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+
+}
+
+.jobbra{
+    float:right ;
+    color: aqua;
+}
+.bemelegites, #lehuzas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #evezesgepenulve{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #fekvőtámasz{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #kitores{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #vallbolnyomas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #felhuzas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+.bemelegites, #tolodzkodas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+
+
+@media (max-width:550px){
+
+}
+
+
