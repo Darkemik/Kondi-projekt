@@ -36,7 +36,6 @@ img{
 }
 
 
-}
 .bemelegites h2{
         color: aqua;
         text-align: center;
@@ -125,6 +124,13 @@ img{
     padding-right: 200px;
     font-size: large;
 }
+.bemelegites, #egykezesnyomas{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
+
 
 
 @media (max-width:550px){
@@ -146,8 +152,8 @@ h3{
     z-index: 99;
     border: none; 
     outline: none; 
-    background-color: rgb(20, 20, 20); 
-    color: white; 
+    background-color: rgb(126, 118, 118); 
+    color: rgb(202, 117, 117); 
     cursor: pointer; 
     padding: 15px; 
     border-radius: 10px; 
@@ -155,7 +161,7 @@ h3{
 }
 
 #myBtn:hover{
-    background-color: rgb(182, 171, 171);
+    background-color: rgb(221, 209, 209);
 
 }
 
